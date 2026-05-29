@@ -31,8 +31,8 @@ O projeto foi dividido em três etapas claras, do dado bruto até a visualizaç�
 - Os scripts de preparação e regras de negócio estão soltos na raiz do repositório (`.py` e `.sql`) para fácil leitura da lógica aplicada.
 - A visualização final pode ser conferida na imagem abaixo ou baixando o arquivo `.pbix` para interação no Power BI Desktop.
 
-[<img width="1493" height="838" alt="Churn1" src="https://github.com/user-attachments/assets/3ab44517-bd65-4b5f-a31d-df2f3313975b" />
-]
+<img width="1493" height="838" alt="Churn1" src="https://github.com/user-attachments/assets/3ab44517-bd65-4b5f-a31d-df2f3313975b" />
+
 
 ---
 **Desenvolvido por:** Igor Carvalho de Souza
